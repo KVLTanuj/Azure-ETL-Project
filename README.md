@@ -1,2 +1,2 @@
 # Azure-ETL-Project
-In this Project we create a ETL full fledged project where we will connect google sheets with ADF , perform ETL in ADF and sink data in blob. Further create visuals in Power BI Desktop
+In this project, I created a full-fledged ETL solution where I connected Google Sheets with Azure Data Factory (ADF), performed ETL in ADF, and sank the data into a Blob storage. Furthermore, I created visuals in Power BI Desktop.
